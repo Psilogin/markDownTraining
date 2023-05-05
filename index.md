@@ -6,3 +6,5 @@
 ###### Header 6
 
 Added text with different header sizes.
+
+![Image of Loli](https://user-images.githubusercontent.com/129085322/236437813-85a4cf9f-9be9-47d4-a162-b6179bfb23d2.jpg)
